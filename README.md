@@ -1,2 +1,27 @@
 # Kmeans-Clustering-Visualization-for-Iris-Dataset
 Kmeans Algorithm Clustering For Iris Dataset
+
+Requirements
+import numpy as np
+import pandas as pd
+import matplotlib.pyplot as plt
+sklearn
+Iris dataset
+
+This Program is About Kmeans and HCA CLustering analysis of iris dataset.
+
+I have used Jupyter console.
+
+# For more information, Cite this paper if referred.
+
+http://www.ijitee.org/wp-content/uploads/papers/v9i7/G5943059720.pdf
+
+https://www.researchgate.net/profile/Ayantika_Nath2/publication/341671505_Clustering_Visualization_and_Class_Prediction_using_Flask_of_Benchmark_Dataset_for_Unsupervised_Techniques_in_ML/links/5ece482292851c9c5e5f8695/Clustering-Visualization-and-Class-Prediction-using-Flask-of-Benchmark-Dataset-for-Unsupervised-Techniques-in-ML.pdf
+
+https://www.researchgate.net/profile/Ayantika_Nath2/publication/341150281_Clustering_Using_Dimensional_Reduction_Techniques_for_Energy_Efficiency_in_WSNs_A_Review/links/5eb10592299bf18b9595b113/Clustering-Using-Dimensional-Reduction-Techniques-for-Energy-Efficiency-in-WSNs-A-Review.pdf
+
+Citing the paper(if referred) is mandatory since the paper has copyrights.
+
+# Enjoy Coding
+
+
