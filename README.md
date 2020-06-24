@@ -35,4 +35,6 @@ Kmeans Cluster
 
 ![alt text](https://github.com/Ayantika22/Kmeans-and-Hierarchical-Clustering-Visualization-for-Iris-Dataset/blob/master/image.png)
 
+![alt text](https://github.com/Ayantika22/Kmeans-and-Hierarchical-Clustering-Visualization-for-Iris-Dataset/blob/master/HCA%20iris.JPG)
+
 
