@@ -17,6 +17,8 @@ This Program is About Kmeans and HCA CLustering analysis of iris dataset.
 
 I have used Jupyter console.
 
+Along with Clustering Visualization Accuracy using Classifiers Such as Logistic regression, KNN, Support vector Machine, Gaussian Naive Bias, Decision tree and Random forest Classifier is provided. To know the exactness in Accuracy Cohen Kappa is used.
+
 # For more information, Cite this paper if referred.
 
 http://www.ijitee.org/wp-content/uploads/papers/v9i7/G5943059720.pdf
