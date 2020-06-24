@@ -2,11 +2,16 @@
 Kmeans Algorithm Clustering For Iris Dataset
 
 Requirements
-import numpy as np
-import pandas as pd
-import matplotlib.pyplot as plt
-sklearn
-Iris dataset
+
+1. import numpy as np
+
+2. import pandas as pd
+
+3. import matplotlib.pyplot as plt
+
+4. sklearn
+
+5. Iris dataset
 
 This Program is About Kmeans and HCA CLustering analysis of iris dataset.
 
