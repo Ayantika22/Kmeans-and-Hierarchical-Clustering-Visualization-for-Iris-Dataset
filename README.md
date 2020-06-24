@@ -28,5 +28,6 @@ https://www.researchgate.net/profile/Ayantika_Nath2/publication/341150281_Cluste
 Citing the paper(if referred) is mandatory since the paper has copyrights.
 
 # Enjoy Coding
+![alt text] https://github.com/Ayantika22/Kmeans-and-Hierarchical-Clustering-Visualization-for-Iris-Dataset/blob/master/image.png
 
 
